@@ -1,2 +1,3 @@
 # PrimeTools
-Run :: python3.8 <file>
+### Run :: python3.8 + file name 
+### Before :: sudo chmod +x install.sh and sudo ./install.sh
